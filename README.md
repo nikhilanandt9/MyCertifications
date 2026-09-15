@@ -44,6 +44,7 @@ _Certificates will be listed here as they are added._
 3. Microsoft Azure AI Fundamentals
 4. Microsoft Security, Identity, and Compliance Fundamentals
 5. Microsoft Azure Data Fundamentals
+6. Microsoft Certified AI Business Professional
 
 ## Misc
 1. Databricks Fundamentals
