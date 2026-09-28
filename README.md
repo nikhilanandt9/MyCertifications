@@ -45,6 +45,7 @@ _Certificates will be listed here as they are added._
 4. Microsoft Security, Identity, and Compliance Fundamentals
 5. Microsoft Azure Data Fundamentals
 6. Microsoft Certified AI Business Professional
+7. Microsoft MCAPS Technical Onboarding
 
 ## Misc
 1. Databricks Fundamentals
