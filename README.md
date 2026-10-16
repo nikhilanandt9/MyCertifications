@@ -46,6 +46,7 @@ _Certificates will be listed here as they are added._
 5. Microsoft Azure Data Fundamentals
 6. Microsoft Certified AI Business Professional
 7. Microsoft MCAPS Technical Onboarding
+8. Microsoft Certified: Power BI Data Analyst Associate
 
 ## Misc
 1. Databricks Fundamentals
