@@ -47,6 +47,7 @@ _Certificates will be listed here as they are added._
 6. Microsoft Certified AI Business Professional
 7. Microsoft MCAPS Technical Onboarding
 8. Microsoft Certified: Power BI Data Analyst Associate
+9. Microsoft Certified: Fabric Analytics Engineer Associate
 
 ## Misc
 1. Databricks Fundamentals
