@@ -49,6 +49,7 @@ _Certificates will be listed here as they are added._
 8. Microsoft Certified: Power BI Data Analyst Associate
 9. Microsoft Certified: Fabric Analytics Engineer Associate
 10. Microsoft Certified Fabric Data Engineer Associate
+11. Microsoft Certified: Azure AI Apps and Agents Developer Associate
 
 ## Misc
 1. Databricks Fundamentals
